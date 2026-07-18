@@ -1,0 +1,6 @@
+feature_1,feature_2,corr,abs_corr
+Isoleucine (mM),Leucine (mM),0.895120,0.895120
+Leucine (mM),Valine (mM),0.888708,0.888708
+Acetoacetic acid (mM),Acetone (mM),0.837997,0.837997
+Isoleucine (mM),Valine (mM),0.834671,0.834671
+HDL cholesterol (mg/dl),SPC (mM),0.823897,0.823897

@@ -1,0 +1,4 @@
+feature_1,feature_2,abs_corr,rel_sum_f1,rel_sum_f2,dropped_feature
+3-Hydroxybutyric acid (mM),Acetoacetic acid (mM),0.934181,0.081091,0.252116,3-Hydroxybutyric acid (mM)
+Isoleucine (mM),Leucine (mM),0.896211,0.811829,0.817650,Isoleucine (mM)
+Leucine (mM),Valine (mM),0.888336,0.817650,0.708884,Valine (mM)
